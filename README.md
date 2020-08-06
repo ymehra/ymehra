@@ -2,7 +2,7 @@
 
 ## I'm a Data Analyst, Cal Poly SLO Gradutate! 
 -  I’m currently working at [Poshmark][Poshmark]!
--  I am currently working on a [Fantasy Football Web App][https://github.com/ymehra/ffballWebApp]
+-  I am currently working on a [Fantasy Football Web App][Fantasy Football Web App]
 - I am always looking to improve and learn
 
 ### Connect with me:
@@ -16,3 +16,4 @@
 
 [linkedin]: https://www.linkedin.com/in/yash-mehra/
 [poshmark]: https://poshmark.com/
+[Fantasy Football Web App]: https://github.com/ymehra/ffballWebApp
